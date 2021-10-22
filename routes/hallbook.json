@@ -1,0 +1,30 @@
+[
+    {
+        "Room id":"3",
+        "Room ":"Super Delux",
+        "No.of Guest":"2",
+        "Amenities":{
+            "Ac":"Yes",
+            "TV":"Yes",
+            "Balcony":"Sea-View"
+        },
+        "Price For 1 Hour":"1000rs",
+        "Booking Status":"UnReserved"
+              
+
+    },
+    {
+
+        "Room id":"4",
+        "Room ":"Semi Delux",
+        "No.of Guest":"2",
+        "Amenities":{
+            "Ac":"Yes",
+            "TV":"Yes",
+            "Balcony":"No"
+        },
+        "Price For 1 Hour":"500rs",
+        "Booking Status":"UnReserved"
+        
+    }
+]

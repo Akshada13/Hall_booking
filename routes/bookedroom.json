@@ -1,0 +1,36 @@
+[
+    {
+        "Room id":"1",
+        "Room ":"Super Delux",
+        "No.of Guest":"2",
+        "Amenities":{
+            "Ac":"Yes",
+            "TV":"Yes",
+            "Balcony":"Sea-View"
+        },
+        "Price For 1 Hour":"1000rs",
+        "Booking Status":"Reserved",
+        "Customer Name":"Test123",
+        "Booking Date":"13 sept 2021",
+        "start time":"10.00 AM",
+        "End time":"12.00 PM"        
+
+    },
+    {
+
+        "Room id":"2",
+        "Room ":"Super Delux",
+        "No.of Guest":"2",
+        "Amenities":{
+            "Ac":"Yes",
+            "TV":"Yes",
+            "Balcony":"Sea-View"
+        },
+        "Price For 1 Hour":"1000rs",
+        "Booking Status":"Reserved",
+        "Customer Name":"Test123",
+        "Booking Date":"13 sept 2021",
+        "start time":"10.00 AM",
+        "End time":"12.00 PM" 
+    }
+]

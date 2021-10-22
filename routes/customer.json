@@ -1,0 +1,9 @@
+[
+    {
+        "customer Name":"Please Enter your Name",
+        "Date":"Enter Booking Date",
+        "Start Time":"Check in Time",
+        "End Time":"Check out Time",
+        "Room id":"Enter room id"
+    }
+]
